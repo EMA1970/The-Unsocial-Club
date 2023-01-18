@@ -32,8 +32,8 @@ After installing npm packkages, the application can be involed using the followi
 npm run start 
 
 ## License 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
-This project is licensed under MIT, for more information please visit [this website](https://opensource.org/licenses/MIT)
+[![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC) <br>
+This project is licensed under ISC, for more information please visit [this website](https://opensource.org/licenses/ISC)
 
 ## Contribution 
 Made by Eileen Ma
