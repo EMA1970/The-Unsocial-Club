@@ -1,0 +1,27 @@
+{
+  "name": "the-unsocial-club",
+  "version": "1.0.0",
+  "description": "This is an API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. This application is designed with the intention of connecting people together to help the unsocialed socialize. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"echo/\"Error: No test specified\\\" && exit 1\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EMA1970/The-Unsocial-Club.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Eileen Ma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EMA1970/The-Unsocial-Club/issues"
+  },
+  "homepage": "https://github.com/EMA1970/The-Unsocial-Club#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.4"
+  }
+}

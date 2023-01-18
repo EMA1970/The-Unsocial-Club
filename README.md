@@ -29,7 +29,7 @@ npm i
 ## Usage 
 After installing npm packkages, the application can be involed using the following command: 
 
-npm start 
+npm run start 
 
 ## License 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
