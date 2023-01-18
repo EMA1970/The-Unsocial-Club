@@ -39,7 +39,7 @@ const UserSchema = new Schema(
     }
 );
 //creates a virtual property that returns the length of the friends array on the UserSchema 
-UserSchema.virtulal("friendCount").get(function () {
+UserSchema.virtual("friendCount").get(function () {
     return this.friends.length; 
 }); 
 //creates an instance of the Mongoose model with the name "User" and the Userschema

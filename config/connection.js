@@ -1,4 +1,4 @@
-const mongoose = reqwuire("mongoose");
+const mongoose = require("mongoose");
 
 //mongoose.connect take in two argument, the first is the URL of the MongodDB sever, the second is an options object.
 

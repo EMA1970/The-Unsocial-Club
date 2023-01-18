@@ -147,4 +147,12 @@ const thoughtController = {
     },
 };
 
-module.export = thoughtController;
+module.exports = {
+    getAllThought,
+    getThoughtById,
+    createThought,
+    updateThought,
+    deleteThought,
+    addReaction,
+    removeReaction,
+  }
